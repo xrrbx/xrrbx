@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Renzo. I'm a Data Analyst / Junior Data Engineer based in the Haarlem / Amsterdam area.
+
+- 💪 I have plenty of experience with Google Cloud Data products (GCP, BigQuery, DataStudio) and dbt.
+- 🔭 I’m currently working on improving my Python and data engineering skills.
+- 🌱 I’m currently learning about other platforms, such as Databricks, Azure and Apache (Airflow and Spark).
+
 <!--
 **xrrbx/xrrbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
