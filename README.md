@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Renzo. I'm a Data Analyst / Junior Data Engineer based in the Haarlem / Amsterdam area.
+My name is Renzo. I work in Data Analytics and Data Engineering and I'm based in the Haarlem / Amsterdam area.
 
 - 💪 I have plenty of experience with Google Cloud Data products (GCP, BigQuery, DataStudio) and dbt.
 - 🔭 I’m currently working on improving my Python and data engineering skills.
